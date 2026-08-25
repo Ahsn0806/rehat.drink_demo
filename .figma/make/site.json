@@ -1,0 +1,10 @@
+{
+  "description": "Create a visually appealing menu for small startups featuring barcodes and WhatsApp links, enhancing customer engagement without the need for a database.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

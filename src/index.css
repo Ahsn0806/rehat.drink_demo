@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Dancing+Script:wght@600;700&family=Poppins:wght@300;400;500;600&display=swap');
+@import 'tailwindcss';
+
+* { box-sizing: border-box; }
+
+body {
+  background-color: #f0e6c4;
+  color: #3b1f2b;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+.font-display { font-family: 'Archivo Black', sans-serif; }
+.font-script  { font-family: 'Dancing Script', cursive; }
+
+::-webkit-scrollbar { width: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #e07a1e55; border-radius: 2px; }
